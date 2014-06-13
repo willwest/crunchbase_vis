@@ -9,5 +9,5 @@ You can see the app [here](http://ec2-54-88-4-148.compute-1.amazonaws.com/)
 
 
 ## Screenshot
-![CrunchBase Visualization](https://dl.dropboxusercontent.com/u/6668166/screenshot.png)
+[![CrunchBase Visualization](https://dl.dropboxusercontent.com/u/6668166/screenshot.png)](http://ec2-54-88-4-148.compute-1.amazonaws.com/)
 
